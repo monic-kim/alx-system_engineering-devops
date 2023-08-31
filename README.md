@@ -1,1 +1,1 @@
-This is the README file for ALX SE Bash program
+0x00. Shell, basics
